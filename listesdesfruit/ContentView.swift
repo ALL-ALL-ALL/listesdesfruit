@@ -9,23 +9,20 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
+       
+            Text("yo")
         
-        NavigationView{
-            
-            VStack {
-                       Text("les fruits")
-                           .fontWeight(.bold)
-                
-
-                       FruitListView()
-                       // fin for each
-                    
-                       } //fin de la HStack
-                   } //fin de la VStack
-               } // fin de la view
+        
+        
+                       
+                       
+     } // FIN body
+} // FIN STRùcut
             
             
-        }
+        
+        
+       
        
        
 
