@@ -29,17 +29,17 @@ struct Objfruits : Identifiable
 var fruits =
 [
     
-       Objfruits(nameDuFruit: "abricot", texte: "Fruit charnu une dupe de forme arrondie, possédant un noyaux dur contenant une seul grosse graine , ou amande", image: "abricot",iconColor: Color.orange),
+       Objfruits(nameDuFruit: "abricot", texte:"Fruit charnu une dupe de forme arrondie, possédant un noyaux dur contenant une seul grosse graine , ou amande", image: "abricot",iconColor: Color.orange),
        
-       Objfruits(nameDuFruit: "banane", texte: "Baie oblongue, fruit disposé en régime, de certaines espèces de bananiers, à peau jaune lorsqu'il est mûr, à pulpe comestible, farineuse et sucrée", image: "banane",iconColor: Color.yellow),
+       Objfruits(nameDuFruit: "banane", texte:"Baie oblongue, fruit disposé en régime, de certaines espèces de bananiers, à peau jaune lorsqu'il est mûr, à pulpe comestible, farineuse et sucrée", image: "banane",iconColor: Color.yellow),
        
-       Objfruits(nameDuFruit: "cassis", texte: "Baie le plus souvent noir formant des grappes pulpeuse à la peau lisse,fortement aromatiques", image: "cassis",iconColor: Color.purple),
+       Objfruits(nameDuFruit: "cassis", texte:"Baie le plus souvent noir formant des grappes pulpeuse à la peau lisse,fortement aromatiques", image: "cassis",iconColor: Color.purple),
        
-       Objfruits(nameDuFruit: "fraise", texte: "Baie rouge reconnaissable grâce à sa peau rouge et ses petites graines beiges, les akènes.", image: "fraise",iconColor: Color.red),
+       Objfruits(nameDuFruit: "fraise", texte:"Baie rouge reconnaissable grâce à sa peau rouge et ses petites graines beiges, les akènes.", image: "fraise",iconColor: Color.red),
        
-       Objfruits(nameDuFruit: "melon", texte: "Le melon est une especes de plantes herbaceés anuelles,origine d'afrique intertropricale,apartenant à la famille des cucubitacées",  image: "melon",iconColor: Color.green),
+       Objfruits(nameDuFruit: "melon", texte:"Le melon est une especes de plantes herbaceés anuelles,origine d'afrique intertropricale,apartenant à la famille des cucubitacées",  image: "melon",iconColor: Color.green),
        
-       Objfruits(nameDuFruit: "pomme", texte: "Fruit charnu, de forme quasi sphérique, déprimée au sommet et à la base, à pulpe homogène.", image: "pomme",iconColor: Color.mint)
+       Objfruits(nameDuFruit: "pomme", texte:"Fruit charnu, de forme quasi sphérique, déprimée au sommet et à la base, à pulpe homogène.", image: "pomme",iconColor: Color.mint)
                  
        
    ]
